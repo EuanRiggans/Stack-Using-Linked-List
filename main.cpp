@@ -34,8 +34,6 @@ int main() {
             count); //Popping all of the data from 19-1 from the stack, not zero as it will be the head once all the data is popped
     }
     outputLinkedList(head);
-    std::cin.get();
-    std::cin.ignore();
     return 0;
 }
 
